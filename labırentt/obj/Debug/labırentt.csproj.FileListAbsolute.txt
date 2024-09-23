@@ -1,0 +1,11 @@
+C:\Users\emrul\Desktop\Visual Stüdyo\labırentt\labırentt\bin\Debug\labırentt.exe.config
+C:\Users\emrul\Desktop\Visual Stüdyo\labırentt\labırentt\bin\Debug\labırentt.exe
+C:\Users\emrul\Desktop\Visual Stüdyo\labırentt\labırentt\bin\Debug\labırentt.pdb
+C:\Users\emrul\Desktop\Visual Stüdyo\labırentt\labırentt\obj\Debug\labırentt.csproj.AssemblyReference.cache
+C:\Users\emrul\Desktop\Visual Stüdyo\labırentt\labırentt\obj\Debug\labırentt.csproj.SuggestedBindingRedirects.cache
+C:\Users\emrul\Desktop\Visual Stüdyo\labırentt\labırentt\obj\Debug\labırentt.Form1.resources
+C:\Users\emrul\Desktop\Visual Stüdyo\labırentt\labırentt\obj\Debug\labırentt.Properties.Resources.resources
+C:\Users\emrul\Desktop\Visual Stüdyo\labırentt\labırentt\obj\Debug\labırentt.csproj.GenerateResource.cache
+C:\Users\emrul\Desktop\Visual Stüdyo\labırentt\labırentt\obj\Debug\labırentt.csproj.CoreCompileInputs.cache
+C:\Users\emrul\Desktop\Visual Stüdyo\labırentt\labırentt\obj\Debug\labırentt.exe
+C:\Users\emrul\Desktop\Visual Stüdyo\labırentt\labırentt\obj\Debug\labırentt.pdb
